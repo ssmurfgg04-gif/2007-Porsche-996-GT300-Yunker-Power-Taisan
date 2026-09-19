@@ -1,22 +1,27 @@
-# 2007 Porsche 996 GT300 Yunker Power Taisan (3D Model)
+# 2007 Porsche 996 GT300 Yunker Power Taisan
 
-## Attribution (required by CC-BY 4.0)
+3D model of the 2007 Porsche 996 GT300 race car in the Yunker Power Taisan (#26) livery.
 
-- **Model:** 2007 Porsche 996 GT300 Yunker Power Taisan
-- **Author:** [Tyler_Dave](https://sketchfab.com/Tyler_Dave)
-- **Source:** [Sketchfab model page](https://sketchfab.com/3d-models/2007-porsche-996-gt300-yunker-power-taisan-22e53200b774420eb55c54c29fd6cd1c)
-- **License:** [Creative Commons Attribution 4.0 (CC-BY 4.0)](http://creativecommons.org/licenses/by/4.0/)
+- **Model file:** `2007-porsche-996-gt300-yunker-power-taisan.glb` (glTF 2.0 binary)
+- **Source data:** `source-data/sketchfab_scene_graph.json` — original Sketchfab scene graph (osgjs format) with full material definitions
 
-## Model details
+## Specs
 
-| Property | Value |
+| | |
 |---|---|
-| Faces | 18,106 |
-| Animations | None |
-| Category | Cars & Vehicles |
-| Formats | depends on download (glTF/GLB, USDZ, source) |
+| Vertices | 15,300 |
+| Triangles | 26,194 |
+| Materials | 29 (PBR metallic-roughness) |
+| Embed textures | 7 (PNG/JPEG) |
+| Size | ~1.3 MB |
 
-## License summary
+## Attribution / License
 
-You are free to use, share, and adapt this model for any purpose, including
-commercially, **as long as you credit the original author** (Tyler_Dave).
+- **Author:** [Tyler_Dave (Dave Love)](https://sketchfab.com/Tyler_Dave) on Sketchfab
+- **Source:** https://sketchfab.com/3d-models/2007-porsche-996-gt300-yunker-power-taisan-22e53200b774420eb55c54c29fd6cd1c
+- **License:** [CC Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) — credit the author when using this model.
+
+The GLB was reconstructed from the model's viewer data stream; a few CDN texture
+variants served in degraded (checkerboard) form and were replaced with flat
+livery-matched PBR colors. The original scene graph with complete material
+parameters is preserved in `source-data/`.
